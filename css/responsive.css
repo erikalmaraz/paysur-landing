@@ -1,0 +1,1083 @@
+@media (max-width: 1920px) {
+  #browser {
+    margin-left: 53%; }
+
+  #textoyboton {
+    margin-left: 280px; }
+
+  .all {
+    margin-left: 17%; }
+
+  .gd {
+    margin-left: 1%;
+    height: 590px; }
+
+  #deschow {
+    margin-left: 33%; }
+
+  .hows {
+    margin-left: 270px; } }
+@media (max-width: 1600px) {
+  .all {
+    margin-left: 11%; }
+
+  .gd {
+    margin-left: 21%; }
+
+  #deschow {
+    margin-left: 30%; }
+
+  .hows {
+    margin-left: 135px; } }
+@media (max-width: 1366px) {
+  .navegacion {
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    position: fixed;
+    z-index: 2;
+    box-shadow: 0px 0px 1px #ddd; }
+
+  #logo {
+    margin-left: 130px;
+    margin-top: 15px;
+    float: left; }
+
+  #menu {
+    float: right;
+    margin-right: 370px;
+    margin-top: 23px;
+    color: #545454; }
+
+  #menu a {
+    color: #545454;
+    text-decoration: none;
+    padding: 10px;
+    transition: all ease 1s; }
+
+  #menu a:hover {
+    color: #dd2e44;
+    border-bottom: #dd2e44; }
+
+  #logo img {
+    width: 90px; }
+
+  .content {
+    width: 100%;
+    height: 652px;
+    background: linear-gradient(174deg, rgba(74, 177, 250, 0) 0, rgba(74, 177, 250, 0) 50%, #1d616c 90%, rgba(10, 47, 55, 0.2) 100%), #1f626b;
+    background-color: #2b5060; }
+
+  #tlcontent {
+    text-align: center;
+    color: #fff;
+    padding-top: 100px;
+    font-size: 28px;
+    margin-bottom: 30px; }
+
+  #textoyboton {
+    text-align: left;
+    margin-left: 60px;
+    font-size: 15px;
+    margin-top: -300px;
+    color: #fff; }
+
+  #textob {
+    text-align: center;
+    width: 500px; }
+
+  #browser {
+    margin: 0px auto;
+    margin-left: 655px; }
+
+  #browser img {
+    width: 640px; }
+
+  #botonone {
+    width: 100px;
+    margin-top: 50px;
+    background-color: #dd2e44;
+    border: 1px solid #dd2e44;
+    text-align: center;
+    padding: 10px;
+    /* border-radius: 3px; */
+    margin-left: 190px;
+    box-shadow: 0px 0px 3px #00837F; }
+
+  .tecnologia {
+    width: 100%;
+    height: 150px;
+    border-bottom: 1px solid #ddd; }
+
+  #angular img {
+    margin-left: 100px;
+    width: 150px;
+    margin-top: 60px;
+    opacity: .6; }
+
+  #github {
+    margin-top: -43px;
+    margin-left: 191px; }
+
+  #github img {
+    width: 130px;
+    opacity: .6;
+    margin-left: 100px; }
+
+  #stylus {
+    margin-left: 365px;
+    margin-top: -63px; }
+
+  #stylus img {
+    width: 95px;
+    opacity: .6;
+    margin-left: 100px; }
+
+  #mongo img {
+    width: 120px;
+    opacity: .6;
+    margin-left: 100px; }
+
+  #mongo {
+    margin-left: 510px;
+    margin-top: -69px; }
+
+  #rails img {
+    width: 50px;
+    opacity: .6;
+    margin-left: 100px; }
+
+  #rails {
+    margin-left: 685px;
+    margin-top: -45px; }
+
+  #sass img {
+    width: 70px;
+    opacity: .6;
+    margin-left: 100px; }
+
+  #sass {
+    margin-left: 800px;
+    margin-top: -62px; }
+
+  #nodejs img {
+    width: 100px;
+    opacity: .6;
+    margin-left: 100px; }
+
+  #nodejs {
+    margin-left: 930px;
+    margin-top: -35px; }
+
+  .all {
+    margin-left: 50px; }
+
+  .metodos {
+    width: 100%;
+    height: 712px;
+    border-bottom: 1px solid #fff;
+    margin-bottom: 30px; }
+
+  .documentos {
+    float: left;
+    margin-top: 100px;
+    margin-left: 20px;
+    width: 430px; }
+
+  #iconone img {
+    width: 50px;
+    margin-left: 50px; }
+
+  #iconone p {
+    color: #545454;
+    font-size: 14px;
+    margin-left: 100px;
+    width: 150px;
+    font-weight: bold;
+    font-family: aileron;
+    text-align: center;
+    margin-top: -54px; }
+
+  #texticon {
+    width: 316px;
+    text-align: center;
+    color: #545454;
+    font-weight: lighter;
+    font-size: 14px;
+    font-family: aileron;
+    margin-left: 113px; }
+
+  .gd {
+    margin-left: 190px; }
+
+  #tltabout {
+    text-align: center;
+    color: #545454;
+    padding-top: 90px;
+    font-size: 28px; }
+
+  #descabout {
+    text-align: center;
+    margin-top: 30px;
+    color: #545454; }
+
+  .how {
+    width: 100%;
+    height: 512px;
+    border-top: 1px solid #ddd; }
+
+  #deschow {
+    text-align: center;
+    margin-top: 30px;
+    color: #545454;
+    width: 630px;
+    margin-left: 26%; }
+
+  .howdocuments {
+    width: 400px;
+    margin-left: 40px;
+    margin-top: 100px;
+    text-align: center; }
+
+  .howcup {
+    width: 400px;
+    margin-left: 480px;
+    margin-top: -153px;
+    text-align: center; }
+
+  #iconhow img {
+    width: 100px; }
+
+  #texthow {
+    margin-top: 30px;
+    color: #545454;
+    font-size: 17px; }
+
+  #texthow b {
+    font-weight: normal; }
+
+  .howprestamos {
+    width: 400px;
+    margin-left: 885px;
+    margin-top: -153px;
+    text-align: center; }
+
+  .tbother {
+    background: linear-gradient(174deg, rgba(74, 177, 250, 0) 0, rgba(74, 177, 250, 0) 50%, #1d616c 90%, rgba(10, 47, 55, 0.2) 100%), #1f626b;
+    background-color: #2b5060;
+    height: 812px;
+    width: 100%;
+    margin-top: 110px; }
+
+  .generaltb {
+    padding-top: 100px;
+    margin: 0px auto; }
+
+  .tball {
+    width: 70%;
+    height: 670px;
+    background-color: #fff;
+    border: 1px solid #fff;
+    box-shadow: 0px 0px 1px #fff;
+    margin: 0px auto; }
+
+  .gone {
+    width: 100%;
+    height: 220px;
+    border-bottom: 1px solid #ddd; }
+
+  .gtwo {
+    width: 100%;
+    height: 220px;
+    border-bottom: 1px solid #ddd; }
+
+  #tlgtwo {
+    width: 300px;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 20px;
+    float: right;
+    margin-right: -263px;
+    color: #211321; }
+
+  #tlgone {
+    width: 300px;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 20px;
+    margin-left: 80px;
+    color: #211321; }
+
+  #descgone {
+    text-align: center;
+    width: 400px;
+    margin-top: 40px;
+    margin-left: 20px; }
+
+  #desctwo {
+    text-align: center;
+    width: 400px;
+    margin-top: 136px;
+    float: right;
+    margin-right: -343px; }
+
+  #brwserone img {
+    width: 320px;
+    opacity: .5;
+    float: right;
+    margin-top: -199px; }
+
+  #cartera img {
+    width: 220px;
+    margin-left: 110px;
+    opacity: .5;
+    margin-top: 1px; }
+
+  #ipadone img {
+    width: 180px;
+    opacity: .5;
+    margin-right: 60px;
+    float: right;
+    margin-top: -175px;
+    transform: rotate(270deg); }
+
+  #iphone img {
+    width: 80px;
+    opacity: .8;
+    margin-right: 6px;
+    float: right;
+    margin-top: -125px; }
+
+  .final {
+    width: 100%;
+    height: 512px;
+    background-color: #fff; }
+
+  .hows {
+    margin-left: 0px; }
+
+  .botonfin {
+    background-color: #dd2e44;
+    border: 1px solid #dd2e44;
+    width: 120px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    margin: 0px auto;
+    margin-top: 100px; }
+
+  #escribenos {
+    color: #545454;
+    text-decoration: underline;
+    margin-top: 30px;
+    text-align: center; } }
+@media (max-width: 1280px) {
+  #browser img {
+    width: 620px; }
+
+  .howcup {
+    margin-left: 460px; }
+
+  .howdocuments {
+    margin-left: 20px; }
+
+  .howprestamos {
+    width: 355px;
+    margin-left: 885px; } }
+@media (max-width: 1024px) {
+  .logo {
+    margin-left: 80px; }
+
+  #menu {
+    margin-right: 290px; }
+
+  #browser {
+    margin-left: 492px;
+    margin-top: 55px; }
+    #browser img {
+      width: 530px; }
+
+  #textob {
+    width: 390px; }
+
+  #botonone {
+    margin-left: 130px; }
+
+  .all {
+    margin-left: -30px; }
+
+  .gd {
+    margin-left: 52px; }
+
+  #deschow {
+    margin-left: 19.5%; }
+
+  #nodejs {
+    display: none; }
+
+  .howdocuments {
+    margin-left: -60px; }
+
+  .howcup {
+    margin-left: 322px; }
+
+  .howprestamos {
+    width: 250px;
+    margin-left: 764px; }
+
+  .tball {
+    width: 80%; }
+
+  #descone {
+    width: 335px !important; } }
+@media (max-width: 800px) {
+  #textob {
+    width: 311px; }
+
+  #botonone {
+    margin-left: 90px; }
+
+  #textoyboton {
+    margin-left: 32px;
+    margin-top: -237px; }
+
+  #menu {
+    margin-right: 90px; }
+
+  #logo {
+    margin-left: 105px; }
+
+  .all {
+    margin-left: -68px; }
+
+  #sass {
+    display: none; }
+
+  #browser {
+    margin-left: 355px;
+    margin-top: 75px; }
+    #browser img {
+      width: 445px; }
+
+  .gd {
+    margin-left: 10px; }
+
+  .documentos {
+    float: left;
+    margin-top: 100px;
+    margin-left: 20px;
+    width: 350px; }
+
+  #texticon {
+    width: 250px;
+    text-align: center;
+    color: #545454;
+    font-weight: lighter;
+    font-size: 14px;
+    font-family: aileron;
+    margin-left: 86px; }
+
+  #deschow {
+    margin-left: 9.5%; }
+
+  .howdocuments {
+    margin-left: -81px; }
+
+  .howcup {
+    margin-left: 200px;
+    margin-top: -153px; }
+
+  .howprestamos {
+    width: 250px;
+    margin-top: -153px;
+    margin-left: 549px; }
+
+  #descgone {
+    margin-top: 40px;
+    margin-left: 18px;
+    width: 300px; }
+
+  #tlgone {
+    margin-left: 27px; }
+
+  #cartera img {
+    margin-left: 57px;
+    margin-top: 6px; }
+
+  #desctwo {
+    text-align: center;
+    width: 340px;
+    margin-top: 136px;
+    float: right;
+    margin-right: -324px; }
+
+  #tlgtwo {
+    margin-right: -316px; }
+
+  #ipadone img {
+    width: 150px;
+    opacity: .5;
+    margin-right: 40px;
+    float: right;
+    margin-top: -160px;
+    transform: rotate(270deg); }
+
+  #iphone img {
+    width: 60px;
+    opacity: .8;
+    margin-right: 6px;
+    float: right;
+    margin-top: -105px; }
+
+  #brwserone img {
+    margin-top: -216px; } }
+@media (max-width: 700px) {
+  #logo {
+    margin-left: 100px; }
+
+  #menu {
+    display: none; }
+
+  #mobile {
+    display: block; }
+    #mobile img {
+      margin-top: 6px;
+      margin-left: 350px; }
+
+  #browser {
+    margin-left: 268px; }
+    #browser img {
+      width: 430px; }
+
+  #textoyboton {
+    margin-left: 32px; }
+
+  #textob {
+    width: 210px; }
+
+  #botonone {
+    margin-left: 37px; }
+
+  #rails {
+    display: none; }
+
+  .gd {
+    margin-left: -40px; }
+
+  #deschow {
+    margin-left: 5.5%; }
+
+  #texthow {
+    width: 200px;
+    margin-left: 100px; }
+
+  .howdocuments {
+    margin-left: 38px; }
+
+  .howcup {
+    margin-left: 260px;
+    margin-top: -172px; }
+
+  .howprestamos {
+    display: none; }
+
+  .tball {
+    height: 580px; }
+
+  .gone, .gtwo {
+    height: 190px; }
+
+  .generaltb {
+    padding-top: 110px; }
+
+  #descgone {
+    margin-top: 15px;
+    width: 235px; }
+
+  #tlgone {
+    margin-left: 0px;
+    padding-top: 65px; }
+
+  #brwserone img {
+    width: 275px;
+    margin-top: -176px; }
+
+  #cartera img {
+    margin-top: 1px;
+    margin-left: 17px;
+    width: 190px; }
+
+  #descone {
+    margin-right: -310px; }
+
+  #tlgtwo {
+    margin-right: 0px; } }
+@media (max-width: 768px) {
+  #descgone {
+    margin-left: 10px;
+    width: 280px; }
+
+  #tlgone {
+    margin-left: 5px; } }
+@media (max-width: 600px) {
+  #menu {
+    display: none;
+    margin-right: 30px; }
+
+  #mobile {
+    display: block; }
+    #mobile img {
+      margin-top: 6px;
+      margin-left: 250px; }
+
+  #menumov img {
+    width: 50px; }
+
+  #logo {
+    margin-left: 93px; }
+
+  #textob {
+    width: 170px; }
+
+  #botonone {
+    margin-left: 23px; }
+
+  .all {
+    margin-left: -40px; }
+
+  #mongo {
+    display: none; }
+
+  .documentos {
+    width: 280px; }
+
+  .gd {
+    margin-left: -54px; }
+
+  #deschow {
+    margin-left: 23.5%;
+    width: 315px; }
+
+  .howcup {
+    margin-left: 205px; }
+
+  .howdocuments {
+    margin-left: -17px; }
+
+  #tlgone {
+    margin-left: 5px;
+    width: 194px;
+    padding-top: 17px; }
+
+  #descgone {
+    margin-left: 10px;
+    width: 205px;
+    margin-top: 12px; }
+
+  #desctwo {
+    text-align: center;
+    width: 230px;
+    margin-top: 129px;
+    float: right;
+    margin-right: -266px; }
+
+  #cartera img {
+    margin-top: -105px; }
+
+  #browser {
+    margin-left: 268px;
+    margin-top: 105px; }
+    #browser img {
+      width: 331px; } }
+@media screen and (min-width: 480px) and (max-width: 480px) {
+  #mobile {
+    display: block; }
+    #mobile img {
+      margin-left: 120px;
+      margin-top: 8px; }
+
+  #menu {
+    display: none; }
+
+  #browser {
+    margin-left: 187px;
+    margin-top: 105px; }
+    #browser img {
+      width: 291px; }
+
+  #textob {
+    width: 125px; }
+
+  #botonone {
+    margin-left: 3px; }
+
+  #stylus {
+    display: none; }
+
+  #iconone {
+    width: 45px; }
+
+  .gd {
+    margin-left: -65px; }
+
+  .documentos {
+    width: 250px; }
+
+  #texticon {
+    width: 156px; }
+
+  #tlgone {
+    width: 192px; }
+
+  #descgone {
+    margin-left: -5px; }
+
+  #cartera img {
+    margin-top: -174px; }
+
+  #deschow {
+    margin-left: 17%; }
+
+  .how {
+    height: 550px; }
+
+  .howdocuments {
+    margin-left: 35px;
+    margin-top: 45px; }
+
+  .howcup {
+    margin-left: 35px;
+    margin-top: 25px; }
+
+  .tball {
+    width: 98%; } }
+@media screen and (min-width: 360px) and (max-width: 384px) {
+  #iphone {
+    display: none; }
+
+  #ipadone {
+    display: none; }
+
+  .gone, .gtwo {
+    height: 153px; }
+
+  .tball {
+    height: 462px; }
+
+  #tlgtwo {
+    padding-top: 15px; }
+
+  #desctwo {
+    margin-top: 80px; }
+
+  .generaltb {
+    padding-top: 30px; }
+
+  #mobile img {
+    margin-top: -67px;
+    margin-left: 270px; }
+
+  .tbother {
+    height: 545px; }
+
+  #logo {
+    margin-left: 10px; }
+
+  #browser {
+    margin-left: 32px;
+    margin-top: 38px; }
+
+  .metodos {
+    height: 1280px; }
+
+  .gd {
+    margin-left: -30px; }
+
+  .howcup {
+    margin-left: -82px;
+    margin-top: 97px;
+    width: 284px; }
+
+  #texthow {
+    margin-top: -65px;
+    width: 200px;
+    margin-left: 179px; }
+
+  .howdocuments {
+    margin-left: -96px;
+    margin-top: 45px;
+    width: 310px; }
+
+  #deschow {
+    margin-left: 6.5%; }
+
+  #browser img {
+    width: 280px; }
+
+  #brwserone, #cartera {
+    display: none; }
+
+  #descgone {
+    width: 277px; }
+
+  #tlgone {
+    text-align: center;
+    width: auto; }
+
+  #textoyboton {
+    margin-left: 50px;
+    margin-top: 30px; }
+
+  #stylus {
+    display: none; }
+
+  #botonone {
+    margin-left: 61px; }
+
+  #textob {
+    width: 249px; }
+
+  .all {
+    margin-left: -15px; }
+
+  #github {
+    display: none; } }
+@media screen and (min-width: 320px) and (max-width: 321px) {
+  #logo {
+    margin-left: 5px; }
+
+  #menu {
+    display: none;
+    margin-right: -80px;
+    font-size: 12px;
+    width: 300px; }
+
+  #mobile {
+    display: block; }
+    #mobile img {
+      margin-left: 140px;
+      margin-top: 7px; }
+
+  #browser {
+    margin-left: 18px;
+    margin-top: 38px; }
+
+  #browser img {
+    width: 280px; }
+
+  #textoyboton {
+    margin-left: 32px;
+    margin-top: 30px; }
+
+  #stylus {
+    display: none; }
+
+  #botonone {
+    margin-left: 61px; }
+
+  #textob {
+    width: 249px; }
+
+  .all {
+    margin-left: -15px; }
+
+  #github {
+    display: none; }
+
+  .gd {
+    margin-left: -35px; }
+
+  #texticon {
+    width: 250px; }
+
+  .metodos {
+    height: 1280px; }
+
+  #deschow {
+    margin-left: 0.5%; }
+
+  #botonone {
+    margin-left: 61px; }
+
+  .howcup {
+    margin-left: -82px;
+    margin-top: 97px;
+    width: 284px; }
+
+  #texthow {
+    margin-top: -65px;
+    width: 200px;
+    margin-left: 179px; }
+
+  .howdocuments {
+    margin-left: -96px;
+    margin-top: 45px;
+    width: 310px; }
+
+  #brwserone img {
+    width: 166px;
+    margin-top: -176px; }
+
+  #descgone {
+    width: 318px;
+    margin-left: -3px; }
+
+  #tlgone {
+    width: 140px;
+    padding-top: 38px; }
+
+  #cartera img {
+    margin-left: -10px;
+    width: 128px;
+    margin-top: 50px; }
+
+  #desctwo {
+    width: 165px;
+    margin-right: 30px;
+    margin-top: 22px; }
+
+  .tball {
+    width: 100%; }
+
+  #tlgtwo {
+    margin-right: 43px;
+    padding-top: 55px;
+    width: 137px; }
+
+  #ipadone img {
+    width: 80px;
+    opacity: .5;
+    margin-right: 12px; }
+
+  #iphone img {
+    width: 35px;
+    opacity: 0.8;
+    margin-right: 98px;
+    float: right;
+    margin-top: -138px; } }
+@media screen and (min-width: 520px) and (max-width: 539px) {
+  #browser img {
+    width: 260px; }
+
+  #browser {
+    margin-top: 160px; }
+
+  .how {
+    height: 550px; }
+
+  .hows {
+    margin-left: 20px; }
+
+  .howdocuments {
+    margin-left: 35px;
+    margin-top: 45px; }
+
+  .howcup {
+    margin-left: 35px;
+    margin-top: 25px; }
+
+  #textoyboton {
+    margin-top: -195px; }
+
+  .all {
+    margin-left: -20px; }
+
+  #stylus {
+    display: none; }
+
+  .metodos {
+    height: 930px; }
+
+  #deschow {
+    margin-left: 19.5%; }
+
+  #descgone {
+    margin-left: -4px;
+    max-width: 175px;
+    margin-top: 12px;
+    min-width: 100px;
+    overflow: hidden; }
+
+  .tball {
+    width: 90%; }
+
+  #tlgone {
+    margin-left: -8px;
+    width: 190px;
+    padding-top: 17px; }
+
+  .gd {
+    margin-left: 40px; } }
+@media screen and (min-width: 540px) and (max-width: 540px) {
+  #logo {
+    margin-left: 75px; }
+
+  #menu {
+    margin-right: 4px;
+    display: none; }
+
+  #menu a {
+    display: none; }
+
+  #mobile {
+    display: block; }
+    #mobile img {
+      margin-top: 6px;
+      margin-left: 200px; }
+
+  #textoyboton {
+    margin-left: 10px; }
+
+  #browser {
+    margin-left: 205px; }
+
+  .all {
+    margin-left: -63px; }
+
+  .metodos {
+    height: 890px; }
+
+  .gd {
+    margin-left: 50px; }
+
+  .gone, .gtwo {
+    height: 180px; }
+
+  #descgone {
+    margin-left: -12px; }
+
+  #tlgone {
+    width: 192px;
+    margin-left: -4px; }
+
+  #brwserone img {
+    width: 243px; }
+
+  #cartera img {
+    margin-top: -165px;
+    width: 160px; }
+
+  #ipadone img {
+    margin-right: 25px; }
+
+  .hows {
+    margin-left: 105px; }
+
+  #deschow {
+    margin-left: 19.5%; }
+
+  .howcup {
+    margin-left: -82px;
+    margin-top: 97px;
+    width: 284px; }
+
+  #texthow {
+    margin-top: -65px;
+    width: 200px;
+    margin-left: 179px; }
+
+  .howdocuments {
+    margin-left: -96px;
+    margin-top: 45px;
+    width: 310px; } }

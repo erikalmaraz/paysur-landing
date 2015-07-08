@@ -1,0 +1,422 @@
+@font-face {
+    font-family: 'raleway';
+    src: url('../fonts/raleway-regular-webfont.eot');
+    src: url('../fonts/raleway-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/raleway-regular-webfont.woff2') format('woff2'),
+         url('../fonts/raleway-regular-webfont.woff') format('woff'),
+         url('../fonts/raleway-regular-webfont.ttf') format('truetype'),
+         url('../fonts/raleway-regular-webfont.svg#ralewayregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'aileron';
+    src: url('../fonts/aileron-regular-webfont.eot');
+    src: url('../fonts/aileron-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/aileron-regular-webfont.woff2') format('woff2'),
+         url('../fonts/aileron-regular-webfont.woff') format('woff'),
+         url('../fonts/aileron-regular-webfont.ttf') format('truetype'),
+         url('../fonts/aileron-regular-webfont.svg#aileronregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+	font-family: raleway;
+	font-size: 14px;
+	color: #545454;
+}
+
+.navegacion {
+	width: 100%;
+	height: 60px;
+	background-color: #fff;
+	border-bottom: 1px solid #ddd;
+	position: fixed;
+	z-index: 2;
+	box-shadow: 0px 0px 1px #ddd;
+}
+#logo {
+	margin-left: 130px;
+	margin-top: 15px;
+	float: left;
+}
+
+#menu{float:right;margin-right:370px;margin-top:23px;color:#545454}
+#menu a{color:#545454; text-decoration:none;padding:10px;transition:all ease 1s}
+#menu a:hover{color:#dd2e44;border-bottom:#dd2e44}
+
+#logo img {
+	width: 90px;
+}
+
+#mobile {
+	display: none;
+}
+
+.content {
+	width: 100%;
+	height: 652px;
+	background:linear-gradient(174deg, rgba(74, 177, 250, 0) 0, rgba(74, 177, 250, 0) 50%, #1D616C 90%, rgba(10, 47, 55, 0.2) 100%), #1F626B;
+	background-color: #2b5060;
+}
+
+
+#tlcontent {
+	text-align: center;
+	color: #fff;
+	padding-top: 100px;
+	font-size: 28px;
+	margin-bottom: 30px;
+}
+
+#textoyboton {
+	text-align: left;
+	margin-left: 60px;
+	font-size: 15px;
+	margin-top: -300px;
+	color: #fff;
+}
+
+#textob {
+	text-align: center;
+	width: 500px;
+}
+
+#browser {
+  margin: 0px auto;
+  margin-left: 655px;
+}
+#browser img {
+	width: 640px;
+}
+
+#botonone {
+  width: 100px;
+  margin-top: 50px;
+background-color: #dd2e44;
+  border: 1px solid #dd2e44;
+    text-align: center;
+  padding: 10px;
+  /* border-radius: 3px; */
+  margin-left: 190px;
+  box-shadow: 0px 0px 3px #00837F;
+}
+
+
+.tecnologia {
+	width: 100%;
+	height: 150px;
+	border-bottom: 1px solid #ddd;
+}
+
+#angular img {
+	margin-left: 100px;
+	width: 150px;
+	margin-top: 60px;
+	opacity: .6;
+}
+
+#github {
+	  margin-top: -43px;
+  margin-left: 191px;
+}
+#github img {
+	width: 130px;
+	opacity: .6;
+	margin-left: 100px;
+}
+#stylus {
+	  margin-left: 365px;
+  margin-top: -63px;
+}
+
+#stylus img {
+	width: 95px;
+	opacity: .6;
+	margin-left: 100px;
+}
+
+#mongo img {
+	width: 120px;
+	opacity: .6;
+	margin-left: 100px;
+}
+
+#mongo {
+	  margin-left: 510px;
+  margin-top: -69px;
+}
+
+#rails img {
+	width: 50px;
+	opacity: .6;
+	margin-left: 100px;
+}
+
+#rails{
+
+	  margin-left: 685px;
+  margin-top: -45px;
+
+}
+
+#sass img {
+	width: 70px;
+	opacity: .6;
+	margin-left: 100px;
+}
+
+#sass{
+	margin-left: 800px;
+	margin-top: -62px;
+}
+
+#nodejs img {
+	width: 100px;
+	opacity: .6;
+	margin-left: 100px;
+}
+
+#nodejs {
+margin-left: 930px;
+  margin-top: -35px;
+}
+
+.all {
+	margin-left: 50px;	
+}
+
+.metodos {
+	width: 100%;
+	height: 612px;
+	border-bottom: 1px solid #fff;
+	margin-bottom: 30px;
+}
+
+.documentos {
+	float: left;
+	 margin-top: 100px;
+	margin-left: 20px;
+	width: 430px;
+}
+
+#iconone img {
+	width: 50px;
+	margin-left: 50px;
+}
+
+#iconone p {
+  color: #545454;
+  font-size: 14px;
+  margin-left: 100px;
+  width: 150px;
+  font-weight: bold;
+  font-family: aileron;
+  text-align: center;
+  margin-top: -54px;
+}
+
+#texticon {  
+  width: 316px;
+  text-align: center;
+  color: #545454;
+  font-weight: lighter;
+  font-size: 14px;
+  font-family: aileron;
+  margin-left: 113px;
+}
+
+.gd {
+	margin-left: 190px;
+}
+
+#tltabout {
+	text-align: center;
+	color: #545454;
+	padding-top: 90px;
+	font-size: 28px;
+}
+
+#descabout {
+  text-align: center;
+  margin-top: 30px;
+  color: #545454;
+}
+
+.how {
+	width: 100%;
+	height: 512px;
+	border-top: 1px solid #ddd;
+}
+
+#deschow {
+  text-align: center;
+  margin-top: 30px;
+  color: #545454;
+  width: 630px;
+  margin-left: 26%;
+}
+
+.howdocuments {
+  width: 400px;
+  margin-left: 40px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.howcup {
+  width: 400px;
+  margin-left: 480px;
+  margin-top: -153px;
+  text-align: center;
+
+}
+
+#iconhow img {
+	width: 100px;
+}
+
+#texthow {
+	margin-top: 30px;
+	color: #545454;
+	font-size: 17px;
+}
+
+#texthow b {
+	font-weight: normal;
+}
+
+.howprestamos {
+  width: 400px;
+  margin-left: 885px;
+  margin-top: -153px;
+  text-align: center;
+}
+
+.tbother {
+	background:linear-gradient(174deg, rgba(74, 177, 250, 0) 0, rgba(74, 177, 250, 0) 50%, #1D616C 90%, rgba(10, 47, 55, 0.2) 100%), #1F626B;
+	background-color: #2b5060;
+	height: 812px;
+	width: 100%;
+	margin-top: 110px;
+}
+
+.generaltb {
+padding-top: 100px;
+margin: 0px auto;
+}
+
+.tball {
+width: 70%;
+  height: 670px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-shadow: 0px 0px 1px #fff;
+  margin: 0px auto;
+}
+
+.gone {
+	width: 100%;
+	height: 220px;
+	border-bottom: 1px solid #ddd;
+}
+
+.gtwo {
+	width: 100%;
+	height: 220px;
+	border-bottom: 1px solid #ddd;
+}
+
+#tlgtwo {
+  width: 300px;
+  text-align: center;
+  padding-top: 80px;
+  font-size: 20px;
+  float: right;
+  margin-right: -263px;
+  color: #211321;
+}
+
+#tlgone {
+	width: 300px;
+	text-align: center;
+	padding-top: 80px;
+	font-size: 20px;
+	margin-left: 80px;
+	color: #211321;
+}
+
+#descgone {
+	text-align: center;
+	width: 400px;
+	margin-top: 40px;	
+	margin-left: 20px;
+}
+
+#desctwo {
+  text-align: center;
+  width: 400px;
+  margin-top: 136px;
+  float: right;
+  margin-right: -343px;
+}
+#brwserone img{
+  width: 320px;
+  opacity: .5;
+  float: right;
+  margin-top: -199px;
+}
+#cartera img {
+  width: 220px;
+  margin-left: 110px;
+  opacity: .5;
+  margin-top: 1px;
+}
+
+#ipadone img {
+  width: 180px;
+  opacity: .5;
+  margin-right: 60px;
+  float: right;
+  margin-top: -175px;
+  transform:rotate(270deg);	
+}
+
+#iphone img {
+   width: 80px;
+  opacity: .8;
+  margin-right: 6px;
+  float: right;
+  margin-top: -125px;		
+}
+
+.final {
+	width: 100%;
+	height: 512px;
+	background-color: #fff;
+}
+
+.botonfin {
+background-color: #dd2e44;
+  border: 1px solid #dd2e44;
+	width: 120px;
+	padding: 10px;
+	text-align: center;
+	color: #fff;
+	margin: 0px auto;
+	margin-top: 100px;
+}
+
+#escribenos {
+	color: #545454;
+	text-decoration: underline;
+	margin-top: 30px;
+	text-align: center;
+}
